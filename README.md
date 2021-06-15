@@ -12,12 +12,12 @@ The encryption algorithm defined by AES is a symmetric and keyed algorithm in wh
 
 ### Application User Interfaces
 
-![Splash Screen](https://github.com/tugbaguler/Image-And-Text-Encryption-Decryption-App/blob/main/projectUI/splash_screen.jpg?raw=true)
-![Main Page](https://github.com/tugbaguler/Image-And-Text-Encryption-Decryption-App/blob/main/projectUI/main_page.jpg?raw=true)
-![Encrypt Text](https://github.com/tugbaguler/Image-And-Text-Encryption-Decryption-App/blob/main/projectUI/encrypt_text.jpg?raw=true)
-![Decrypt Text](https://github.com/tugbaguler/Image-And-Text-Encryption-Decryption-App/blob/main/projectUI/decrypt_text.jpg?raw=true)
-![Image Encryption](https://github.com/tugbaguler/Image-And-Text-Encryption-Decryption-App/blob/main/projectUI/click_encrypt_buton_choose_image_and_encrypt.jpg?raw=true)
-![Image Decryption](https://github.com/tugbaguler/Image-And-Text-Encryption-Decryption-App/blob/main/projectUI/click_decrypt_button_and_you_can_see_the_image.jpg?raw=true)
+![Splash Screen](https://github.com/tugbaguler/Text-And-Image-Encryption-Decryption-App/blob/main/ProjectUI/splash_screen.jpg)
+![Main Page](https://github.com/tugbaguler/Text-And-Image-Encryption-Decryption-App/blob/main/ProjectUI/main_page.jpg)
+![Encrypt Text](https://github.com/tugbaguler/Text-And-Image-Encryption-Decryption-App/blob/main/ProjectUI/encrypt_text.jpg)
+![Decrypt Text](https://github.com/tugbaguler/Text-And-Image-Encryption-Decryption-App/blob/main/ProjectUI/decrypt_text.jpg)
+![Image Encryption](https://github.com/tugbaguler/Text-And-Image-Encryption-Decryption-App/blob/main/ProjectUI/click_encrypt_buton_choose_image_and_encrypt.jpg)
+![Image Decryption](https://github.com/tugbaguler/Text-And-Image-Encryption-Decryption-App/blob/main/ProjectUI/click_decrypt_button_and_you_can_see_the_image.jpg)
 
 ### Guide & Documentation for The Working Interface
 
