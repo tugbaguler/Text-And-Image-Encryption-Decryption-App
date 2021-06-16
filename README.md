@@ -24,3 +24,7 @@ The encryption algorithm defined by AES is a symmetric and keyed algorithm in wh
 * When the application is opened, the page where the algorithms will be tested appears. Users can test encryption on text and images using the AES algorithm.
 * When the text button is clicked, the user is prompted to enter a text and set a password for this text. When the user fills in the fields and clicks on the encrypt button, the message is encrypted. When user clicks the Decrypt button, user can see the message again. But the most important point here is that the password does not change. Otherwise, the encrypted message cannot be decrypted.
 * When the user clicks the Image button, user can upload any image in png and jpg format to the application by clicking the encrypt button. After the picture is selected, it should wait for a while because the picture is encrypted during this time. The encrypted text is shown to the user in the application. If the user wants to view the image, it is enough to click the decrypt button.
+
+### Demo
+
+YouTube Link: https://youtu.be/wAdb5yAnKVY
