@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#5296A5</color>
+    <color name="color_primary_varyant">#469298</color>
+    <color name="teal_200">#5296A5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#9fcccb</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
