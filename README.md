@@ -1,6 +1,13 @@
 # Text-And-Image-Encryption-Decryption-App
 An android app for encrypting and decrypting images and texts using AES and Base64.
 
+------------------------------
+
+Information System Security 
+
+Tuğba Güler - 20150807012
+
+------------------------------
 
 Many different algorithms are used for encryption and decryption. Looking at algorithms such as DES, 3DES, AES algorithms, AES is the most secure and efficient, and one of the reasons is that the key length is longer than the key lengths of the other.
 
