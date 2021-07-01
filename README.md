@@ -1,14 +1,6 @@
 # Text-And-Image-Encryption-Decryption-App
 An android app for encrypting and decrypting images and texts using AES and Base64.
 
-------------------------------
-
-Information System Security 
-
-Tuğba Güler - 20150807012
-
-------------------------------
-
 Many different algorithms are used for encryption and decryption. Looking at algorithms such as DES, 3DES, AES algorithms, AES is the most secure and efficient, and one of the reasons is that the key length is longer than the key lengths of the other.
 
 ### AES Encryption and Decryption
@@ -31,7 +23,3 @@ The encryption algorithm defined by AES is a symmetric and keyed algorithm in wh
 * When the application is opened, the page where the algorithms will be tested appears. Users can test encryption on text and images using the AES algorithm.
 * When the text button is clicked, the user is prompted to enter a text and set a password for this text. When the user fills in the fields and clicks on the encrypt button, the message is encrypted. When user clicks the Decrypt button, user can see the message again. But the most important point here is that the password does not change. Otherwise, the encrypted message cannot be decrypted.
 * When the user clicks the Image button, user can upload any image in png and jpg format to the application by clicking the encrypt button. After the picture is selected, it should wait for a while because the picture is encrypted during this time. The encrypted text is shown to the user in the application. If the user wants to view the image, it is enough to click the decrypt button.
-
-### Demo
-
-[Watch the demo](https://www.youtube.com/watch?v=wAdb5yAnKVY&list=PLxVq-1CQ8LtAkKj77GyVGKD4cXUJe33BS&index=2)
